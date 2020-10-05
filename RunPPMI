@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ppmi.py --results_path 'data/ppmi_results.tsv' --pairs_path 'data/ws353_2.tsv' --tok_path 'data/tokenized_text.tsv'

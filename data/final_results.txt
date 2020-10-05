@@ -1,0 +1,39 @@
+Method: PATH
+Correlation: 0.5734
+Coverage: 203
+
+
+Method: RESNIK
+Correlation: 0.5713
+Coverage: 192
+
+
+Method: WUP
+Correlation: 0.6152
+Coverage: 203
+
+
+Method: LCH
+Correlation: 0.5914
+Coverage: 203
+
+
+Method: JCN
+Correlation: 0.5512
+Coverage: 202
+
+
+Method: LIN
+Correlation: 0.5389
+Coverage: 192
+
+
+Method: data/word2vec_results.tsv
+Correlation: 0.6599
+Coverage: 203
+
+Method: data/ppmi_results.tsv
+Correlation: 0.1204
+Coverage: 85
+
+
